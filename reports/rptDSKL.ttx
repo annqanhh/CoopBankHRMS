@@ -1,0 +1,5 @@
+TenNV	String	50	Nguyen Huu Thanh
+ChucVu	String	50	Nhân viên
+TenPB	String	50	Thông tin Báo cáo - Tong hop
+TienPhat	Currency		200000
+LyDo	String	50	Nghi lam khong phep
